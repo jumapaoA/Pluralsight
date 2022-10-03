@@ -1,0 +1,16 @@
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\C# development fundamentals\working-arrays-collections-c-sharp\Code\m09-linkedlists\After\SimulateJourney\bin\Debug\net5.0\SimulateJourney.exe
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\C# development fundamentals\working-arrays-collections-c-sharp\Code\m09-linkedlists\After\SimulateJourney\bin\Debug\net5.0\SimulateJourney.deps.json
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\C# development fundamentals\working-arrays-collections-c-sharp\Code\m09-linkedlists\After\SimulateJourney\bin\Debug\net5.0\SimulateJourney.runtimeconfig.json
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\C# development fundamentals\working-arrays-collections-c-sharp\Code\m09-linkedlists\After\SimulateJourney\bin\Debug\net5.0\SimulateJourney.runtimeconfig.dev.json
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\C# development fundamentals\working-arrays-collections-c-sharp\Code\m09-linkedlists\After\SimulateJourney\bin\Debug\net5.0\SimulateJourney.dll
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\C# development fundamentals\working-arrays-collections-c-sharp\Code\m09-linkedlists\After\SimulateJourney\bin\Debug\net5.0\SimulateJourney.pdb
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\C# development fundamentals\working-arrays-collections-c-sharp\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\SimulateJourney.csproj.AssemblyReference.cache
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\C# development fundamentals\working-arrays-collections-c-sharp\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\SimulateJourney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\C# development fundamentals\working-arrays-collections-c-sharp\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\SimulateJourney.AssemblyInfoInputs.cache
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\C# development fundamentals\working-arrays-collections-c-sharp\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\SimulateJourney.AssemblyInfo.cs
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\C# development fundamentals\working-arrays-collections-c-sharp\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\SimulateJourney.csproj.CoreCompileInputs.cache
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\C# development fundamentals\working-arrays-collections-c-sharp\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\SimulateJourney.dll
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\C# development fundamentals\working-arrays-collections-c-sharp\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\refint\SimulateJourney.dll
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\C# development fundamentals\working-arrays-collections-c-sharp\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\SimulateJourney.pdb
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\C# development fundamentals\working-arrays-collections-c-sharp\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\SimulateJourney.genruntimeconfig.cache
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\C# development fundamentals\working-arrays-collections-c-sharp\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\ref\SimulateJourney.dll

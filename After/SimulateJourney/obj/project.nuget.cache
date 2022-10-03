@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "otSf3nrQVadHbAfmRMRhVXIDTsFbU2IGA7VHrL3JqVyWouHertuK24yAzrLn52pycZAriA6YZ08m3j2SIrj2wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Full Scale\\Desktop\\ALYSSA\\Pluralsight Files\\C# development fundamentals\\working-arrays-collections-c-sharp\\Code\\m09-linkedlists\\After\\SimulateJourney\\SimulateJourney.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Full Scale\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Full Scale\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Full Scale\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Full Scale\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
